@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nmaprun>
+<?xml-stylesheet href="file:///usr/bin/../share/nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 7.01 scan initiated Fri Feb 19 23:40:52 2021 as: nmap -n -p80,81 -oX san1.xml localhost -->
+<nmaprun scanner="nmap" args="nmap -n -p80,81 -oX san1.xml localhost" start="1613749252" startstr="Fri Feb 19 23:40:52 2021" version="7.01" xmloutputversion="1.04">
+<scaninfo type="connect" protocol="tcp" numservices="2" services="80-81"/>
+<verbose level="0"/>
+<debugging level="0"/>
+<host starttime="1613749252" endtime="1613749252"><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="127.0.0.1" addrtype="ipv4"/>
+<hostnames>
+<hostname name="localhost" type="user"/>
+</hostnames>
+<ports><port protocol="tcp" portid="80"><state state="open" reason="syn-ack" reason_ttl="0"/><service name="http" method="table" conf="3"/></port>
+<port protocol="tcp" portid="81"><state state="closed" reason="conn-refused" reason_ttl="0"/><service name="hosts2-ns" method="table" conf="3"/></port>
+</ports>
+<times srtt="57" rttvar="2832" to="100000"/>
+</host>
+<runstats><finished time="1613749252" timestr="Fri Feb 19 23:40:52 2021" elapsed="0.03" summary="Nmap done at Fri Feb 19 23:40:52 2021; 1 IP address (1 host up) scanned in 0.03 seconds" exit="success"/><hosts up="1" down="0" total="1"/>
+</runstats>
+</nmaprun>

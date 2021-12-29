@@ -1,0 +1,16 @@
+let getDataOne=(cb) => {
+  setTimeout(() => {
+      cb('dummy data one');
+      },1000);
+}
+
+getDataOne( (data) => {
+    console.log('data received ',data);
+    });
+getDataOne( (data) => {
+    console.log('data received',data);
+    });
+
+
+
+
