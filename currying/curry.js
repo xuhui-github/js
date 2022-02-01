@@ -6,6 +6,7 @@ function variadic(a){
   console.log(arguments);
   console.log(arguments[0]);
   
+  
 }
 console.log(variadic(1));
 console.log(variadic(1,2,3));
