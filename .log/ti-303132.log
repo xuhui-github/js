@@ -1,0 +1,38 @@
+[15:25:12.167] Global cache location '/home/xuhui/.cache/typescript/4.7', safe file path '/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/typingSafeList.json', types map path /opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/typesMap.json
+[15:25:12.168] Processing cache location '/home/xuhui/.cache/typescript/4.7'
+[15:25:12.168] Trying to find '/home/xuhui/.cache/typescript/4.7/package.json'...
+[15:25:12.169] Loaded content of '/home/xuhui/.cache/typescript/4.7/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.670"},"devDependencies":{"@types/mysql":"^2.15.21","@types/sequelize":"^4.28.17","@types/sqlstring":"^2.3.0"}}
+[15:25:12.169] Loaded content of '/home/xuhui/.cache/typescript/4.7/package-lock.json'
+[15:25:12.189] Adding entry into typings cache: 'mysql' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/mysql/index.d.ts'
+[15:25:12.195] Adding entry into typings cache: 'sequelize' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/sequelize/index.d.ts'
+[15:25:12.196] Adding entry into typings cache: 'sqlstring' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/sqlstring/index.d.ts'
+[15:25:12.197] Finished processing cache location '/home/xuhui/.cache/typescript/4.7'
+[15:25:12.197] Process id: 303139
+[15:25:12.197] NPM location: /opt/node-v16.15.1-linux-x64/bin/npm (explicit '--npmLocation' not  provided)
+[15:25:12.197] validateDefaultNpmLocation: false
+[15:25:12.198] Npm config file: /home/xuhui/.cache/typescript/4.7/package.json
+[15:25:12.198] Updating types-registry npm package...
+[15:25:12.198] Exec: /opt/node-v16.15.1-linux-x64/bin/npm install --ignore-scripts types-registry@latest
+[15:25:16.053]     Succeeded. stdout:
+    
+    up to date, audited 10 packages in 3s
+
+found 0 vulnerabilities
+
+[15:25:16.053] Updated types-registry npm package
+[15:25:16.100] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.es5.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.es2015.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.es2016.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.dom.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.es2015.core.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.es2016.full.d.ts","/home/xuhui/js/mysqlConnection.js"],"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/home/xuhui/js","kind":"discover"}
+[15:25:16.118] Loaded safelist from types map file '/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/typesMap.json'
+[15:25:16.119] Explicitly included types: []
+[15:25:16.119] Inferred typings from unresolved imports: []
+[15:25:16.119] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/xuhui/js/bower_components","/home/xuhui/js/node_modules"]}
+[15:25:16.119] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/xuhui/js/bower_components","/home/xuhui/js/node_modules"]}
+[15:25:16.120] DirectoryWatcher:: Added:: WatchInfo: /home/xuhui/js/bower_components
+[15:25:16.120] DirectoryWatcher:: Added:: WatchInfo: /home/xuhui/js/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[15:25:16.121] Elapsed:: 1.1637299954891205ms DirectoryWatcher:: Added:: WatchInfo: /home/xuhui/js/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[15:25:16.121] DirectoryWatcher:: Added:: WatchInfo: /home/xuhui/js/node_modules
+[15:25:16.121] DirectoryWatcher:: Added:: WatchInfo: /home/xuhui/js/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[15:25:16.122] Elapsed:: 0.09012900292873383ms DirectoryWatcher:: Added:: WatchInfo: /home/xuhui/js/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[15:25:16.122] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[15:25:16.122] Response has been sent.
+[15:25:16.122] No new typings were requested as a result of typings discovery

@@ -1,0 +1,6 @@
+names = [
+ 'first'
+ 'second'
+ 'third'
+ ]
+
