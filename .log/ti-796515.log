@@ -1,0 +1,77 @@
+[15:08:16.887] Global cache location '/home/xuhui/.cache/typescript/4.7', safe file path '/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/typingSafeList.json', types map path /opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/typesMap.json
+[15:08:16.888] Processing cache location '/home/xuhui/.cache/typescript/4.7'
+[15:08:16.888] Trying to find '/home/xuhui/.cache/typescript/4.7/package.json'...
+[15:08:16.891] Loaded content of '/home/xuhui/.cache/typescript/4.7/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.677"},"devDependencies":{"@types/angular":"^1.8.9","@types/archiver":"^6.0.2","@types/body":"^5.1.4","@types/body-parser":"^1.19.5","@types/bootstrap":"^5.2.10","@types/brace-expansion":"^1.1.2","@types/cookie":"^0.6.0","@types/cookie-parser":"^1.4.6","@types/err":"^2.1.2","@types/errorhandler":"^1.5.3","@types/eslint":"^8.56.0","@types/express":"^4.17.21","@types/gulp":"^4.0.17","@types/gulp-autoprefixer":"^0.0.37","@types/gulp-header":"^2.0.4","@types/gulp-rename":"^2.0.6","@types/inflight":"^1.0.1","@types/inherits":"^0.0.33","@types/jest":"^29.5.11","@types/merge-descriptors":"^1.0.3","@types/method-override":"^0.0.35","@types/mocha":"^10.0.6","@types/mockjs":"^1.0.10","@types/morgan":"^1.9.9","@types/mysql":"^2.15.24","@types/once":"^1.4.4","@types/path-is-absolute":"^1.0.2","@types/prompts":"^2.4.9","@types/request":"^2.48.12","@types/rethinkdb":"^2.3.21","@types/rx":"^4.1.4","@types/saslprep":"^1.0.3","@types/semver":"^7.5.6","@types/sequelize":"^4.28.17","@types/serve-static":"^1.15.5","@types/sqlite3":"^3.1.11","@types/sqlstring":"^2.3.0"}}
+[15:08:16.892] Loaded content of '/home/xuhui/.cache/typescript/4.7/package-lock.json'
+[15:08:16.905] Adding entry into typings cache: 'angular' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/angular/index.d.ts'
+[15:08:16.908] Adding entry into typings cache: 'archiver' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/archiver/index.d.ts'
+[15:08:16.911] Adding entry into typings cache: 'body' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/body/index.d.ts'
+[15:08:16.914] Adding entry into typings cache: 'body-parser' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/body-parser/index.d.ts'
+[15:08:16.917] Adding entry into typings cache: 'bootstrap' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/bootstrap/index.d.ts'
+[15:08:16.919] Adding entry into typings cache: 'brace-expansion' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/brace-expansion/index.d.ts'
+[15:08:16.920] Adding entry into typings cache: 'cookie' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/cookie/index.d.ts'
+[15:08:16.922] Adding entry into typings cache: 'cookie-parser' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/cookie-parser/index.d.ts'
+[15:08:16.925] Adding entry into typings cache: 'err' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/err/index.d.ts'
+[15:08:16.928] Adding entry into typings cache: 'errorhandler' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/errorhandler/index.d.ts'
+[15:08:16.930] Adding entry into typings cache: 'eslint' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/eslint/index.d.ts'
+[15:08:16.932] Adding entry into typings cache: 'express' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/express/index.d.ts'
+[15:08:16.934] Adding entry into typings cache: 'gulp' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/gulp/index.d.ts'
+[15:08:16.936] Adding entry into typings cache: 'gulp-autoprefixer' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/gulp-autoprefixer/index.d.ts'
+[15:08:16.937] Adding entry into typings cache: 'gulp-header' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/gulp-header/index.d.ts'
+[15:08:16.939] Adding entry into typings cache: 'gulp-rename' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/gulp-rename/index.d.ts'
+[15:08:16.940] Adding entry into typings cache: 'inflight' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/inflight/index.d.ts'
+[15:08:16.941] Adding entry into typings cache: 'inherits' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/inherits/index.d.ts'
+[15:08:16.945] Adding entry into typings cache: 'jest' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/jest/index.d.ts'
+[15:08:16.947] Adding entry into typings cache: 'merge-descriptors' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/merge-descriptors/index.d.ts'
+[15:08:16.948] Adding entry into typings cache: 'method-override' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/method-override/index.d.ts'
+[15:08:16.949] Adding entry into typings cache: 'mocha' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/mocha/index.d.ts'
+[15:08:16.950] Adding entry into typings cache: 'mockjs' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/mockjs/index.d.ts'
+[15:08:16.951] Adding entry into typings cache: 'morgan' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/morgan/index.d.ts'
+[15:08:16.952] Adding entry into typings cache: 'mysql' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/mysql/index.d.ts'
+[15:08:16.954] Adding entry into typings cache: 'once' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/once/index.d.ts'
+[15:08:16.955] Adding entry into typings cache: 'path-is-absolute' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/path-is-absolute/index.d.ts'
+[15:08:16.956] Adding entry into typings cache: 'prompts' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/prompts/index.d.ts'
+[15:08:16.957] Adding entry into typings cache: 'request' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/request/index.d.ts'
+[15:08:16.958] Adding entry into typings cache: 'rethinkdb' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/rethinkdb/index.d.ts'
+[15:08:16.959] Adding entry into typings cache: 'rx' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/rx/index.d.ts'
+[15:08:16.960] Adding entry into typings cache: 'saslprep' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/saslprep/index.d.ts'
+[15:08:16.961] Adding entry into typings cache: 'semver' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/semver/index.d.ts'
+[15:08:16.963] Adding entry into typings cache: 'sequelize' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/sequelize/index.d.ts'
+[15:08:16.964] Adding entry into typings cache: 'serve-static' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/serve-static/index.d.ts'
+[15:08:16.964] Adding entry into typings cache: 'sqlite3' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/sqlite3/index.d.ts'
+[15:08:16.965] Adding entry into typings cache: 'sqlstring' => '/home/xuhui/.cache/typescript/4.7/node_modules/@types/sqlstring/index.d.ts'
+[15:08:16.965] Finished processing cache location '/home/xuhui/.cache/typescript/4.7'
+[15:08:16.965] Process id: 796522
+[15:08:16.966] NPM location: /opt/node-v16.15.1-linux-x64/bin/npm (explicit '--npmLocation' not  provided)
+[15:08:16.966] validateDefaultNpmLocation: false
+[15:08:16.966] Npm config file: /home/xuhui/.cache/typescript/4.7/package.json
+[15:08:16.966] Updating types-registry npm package...
+[15:08:16.966] Exec: /opt/node-v16.15.1-linux-x64/bin/npm install --ignore-scripts types-registry@latest
+[15:08:19.547]     Succeeded. stdout:
+    
+    up to date, audited 154 packages in 2s
+
+7 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+[15:08:19.547] Updated types-registry npm package
+[15:08:20.404] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.es5.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.es2015.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.es2016.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.dom.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.es2015.core.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts","/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/lib.es2016.full.d.ts","/home/xuhui/js/mysqlConnection.js"],"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/home/xuhui/js","kind":"discover"}
+[15:08:20.422] Loaded safelist from types map file '/opt/node-v16.15.1-linux-x64/lib/node_modules/typescript/lib/typesMap.json'
+[15:08:20.422] Explicitly included types: []
+[15:08:20.424] Searching for typing names in /home/xuhui/js/node_modules; all files: []
+[15:08:20.424]     Found package names: []
+[15:08:20.424] Inferred typings from unresolved imports: []
+[15:08:20.425] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/xuhui/js/bower_components","/home/xuhui/js/node_modules"]}
+[15:08:20.425] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/xuhui/js/bower_components","/home/xuhui/js/node_modules"]}
+[15:08:20.425] DirectoryWatcher:: Added:: WatchInfo: /home/xuhui/js/bower_components
+[15:08:20.426] DirectoryWatcher:: Added:: WatchInfo: /home/xuhui/js/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[15:08:20.427] Elapsed:: 1.7329619824886322ms DirectoryWatcher:: Added:: WatchInfo: /home/xuhui/js/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[15:08:20.428] DirectoryWatcher:: Added:: WatchInfo: /home/xuhui/js/node_modules
+[15:08:20.428] DirectoryWatcher:: Added:: WatchInfo: /home/xuhui/js/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[15:08:20.429] Elapsed:: 0.7815099954605103ms DirectoryWatcher:: Added:: WatchInfo: /home/xuhui/js/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[15:08:20.429] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[15:08:20.429] Response has been sent.
+[15:08:20.430] No new typings were requested as a result of typings discovery
