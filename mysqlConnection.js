@@ -1,13 +1,12 @@
 
 
-
 var mysql=require('mysql');
-
-var con=mysql.createConnection({host: 'localhost',user: 'xuhui',password: 'flower'});
+console.log
+var con=mysql.createConnection({host: '127.0.0.1',user: 'xuhui',password: 'flower'});
 con.connect(function(err){
 if(err){
-    console.err('error connection: '+err.stack);
-    
+    console.log('error connection: '+err.stack);
+        
 
     return;
 }
