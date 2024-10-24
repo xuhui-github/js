@@ -1,4 +1,4 @@
-import _fs as 'fs';
+import _fs from 'fs';
 const fs = _fs.promises;
 
 import util from 'util';
